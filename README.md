@@ -1,8 +1,8 @@
 <h1 align="center">Ticket-App 🎟️</h1>
 
-[![Vercel](https://vercelbadge.vercel.app/api/Rites23/ticketing-app)](https://ticketing-app-zeta-dun.vercel.app/)
-
 A cutting-edge IT Ticketing Application built with Next.js, Tailwind CSS, and MongoDB. This app allows users to create, view, and manage tickets efficiently with a sleek, responsive design.
+
+[![Vercel](https://vercelbadge.vercel.app/api/Rites23/ticketing-app)](https://ticketing-app-zeta-dun.vercel.app/)
 
 👉 [Click here to open a New Ticket](https://ticketing-app-zeta-dun.vercel.app/)
 
