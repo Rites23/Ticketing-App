@@ -1,4 +1,4 @@
-## IT Ticketing App
+<h1 align="center">Ticket-App 🎟️</h1>
 
 [![Vercel](https://vercelbadge.vercel.app/api/Rites23/ticketing-app)](https://ticketing-app-zeta-dun.vercel.app/)
 
